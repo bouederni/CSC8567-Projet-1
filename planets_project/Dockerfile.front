@@ -1,0 +1,5 @@
+FROM python:latest
+
+WORKDIR /public
+
+RUN pip install psycopg2>=2.9 Django>=5.0 
