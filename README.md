@@ -4,11 +4,13 @@ Ce projet a été réalisé dans le cadre du module d'enseignement "Architecture
 
 Il s'agit d'un site Web réalisé sous Django, containerisé à l'aide de Docker. 
 
-Diagramme de classes :
-![alt text](/misc/Diagramme de classes.png)
+- **Diagramme de classes** :
 
-Diagramme du réseau virtuel :
-![alt text](/misc/Diagramme de classes.png)
+![Diagramme de classes](https://github.com/bouederni/CSC8567-Projet-1/blob/main/misc/Diagramme%20de%20classes.png)
+
+- **Diagramme du réseau virtuel** :
+
+![Diagramme du réseau virtuel](https://github.com/bouederni/CSC8567-Projet-1/blob/main/misc/Diagramme%20du%20r%C3%A9seau%20virtuel.png)
 
 # - Liste des chemins URL
 - "`/`" : Page principale
